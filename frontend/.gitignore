@@ -1,0 +1,4 @@
+.env
+./vite-project/dist
+*.log
+/vite-project/node_modules
